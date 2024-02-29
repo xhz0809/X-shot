@@ -26,7 +26,8 @@ python src/Binbin/mian.py  \
   --data_name RAMS  \
   --output_dir checkpoints/RAMS/T5/5e5 \
 ```
-
+ - The fine-tuning process can be optional. The model can be directly applied to any dataset as a zero-shot approach
+ - To fine-tune the model on a new dataset, make sure you modify the file path
 <!-- ## Dataset -->
 
 
