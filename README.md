@@ -28,6 +28,7 @@ python src/Binbin/mian.py  \
 ```
  - The fine-tuning process can be optional. The model can be directly applied to any dataset as a zero-shot approach
  - To fine-tune the model on a new dataset, make sure you modify the file path
+ - Note that the model can be any existing architecture. We include the three most common transformer architectures: encoder-only (RoBERTa), encoder-decoder (T5), and decoder-only (GPT-Neo)
 <!-- ## Dataset -->
 
 
