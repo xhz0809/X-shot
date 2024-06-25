@@ -1,6 +1,6 @@
 # X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification
 
-This repository contains codes and scripts relevant to the dataset introduced in this [paper](#[link](https://arxiv.org/abs/2403.03863))
+This repository contains codes and scripts relevant to the dataset introduced in this [paper](https://arxiv.org/abs/2403.03863)
 
 
 <!-- ## Requirements -->
