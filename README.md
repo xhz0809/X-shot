@@ -1,6 +1,6 @@
 # X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification
 
-This repository contains codes and scripts relevant to the dataset introduced in this [paper](#link)
+This repository contains codes and scripts relevant to the dataset introduced in this [paper](#[link](https://arxiv.org/abs/2403.03863))
 
 
 <!-- ## Requirements -->
@@ -37,7 +37,25 @@ python src/Binbin/mian.py  \
 ## Citation 
 Please cite the following work if you want to refer to this work: 
 ```
-
+@article{DBLP:journals/corr/abs-2403-03863,
+  author       = {Hanzi Xu and
+                  Muhao Chen and
+                  Lifu Huang and
+                  Slobodan Vucetic and
+                  Wenpeng Yin},
+  title        = {X-Shot: {A} Unified System to Handle Frequent, Few-shot and Zero-shot
+                  Learning Simultaneously in Classification},
+  journal      = {CoRR},
+  volume       = {abs/2403.03863},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2403.03863},
+  doi          = {10.48550/ARXIV.2403.03863},
+  eprinttype    = {arXiv},
+  eprint       = {2403.03863},
+  timestamp    = {Tue, 07 May 2024 20:16:08 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2403-03863.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 
 ## Contact
